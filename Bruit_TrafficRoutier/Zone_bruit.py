@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 
 #-------------------------------------------------------------------------------
-# Nom du script    : Pollution_Sonore.py
+# Nom du script    : Zone_bruit.py
 # Objet            : Génération de zones d'exposition au bruit du traffic routier
-# Date de création : 14/09/2018
 #-------------------------------------------------------------------------------
 
 # Import arcpy module
