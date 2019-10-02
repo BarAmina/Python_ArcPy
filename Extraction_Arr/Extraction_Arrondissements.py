@@ -9,7 +9,7 @@
 # Objectif :
 # Extraire des entités limitées à un ou plusieurs arrondissement(s) de Paris.
 # Les entités extraites sont récupérées dans une nouvelle classe d'entités.
-# Ce script est associé à deux outils scripts créés sur la géodatabase personelle 
+# Ce script est associé à deux outils scripts créés sur la géodatabase personnelle 
 #ArcGis
 #-------------------------------------------------------------------------------
 
